@@ -17,4 +17,4 @@ I am eager to contribute to projects and open to collaboration.🤝☕
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 
 ## Connect with me!!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adrián_Morán-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](www.linkedin.com/in/adrián-morán-casas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adrián_Morán_Casas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](www.linkedin.com/in/adrianmoranc)
